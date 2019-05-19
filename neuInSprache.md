@@ -1,4 +1,32 @@
 # Neue Sprachfeatures in C++ 11
 
-## folgt später
+
+## Initialisierung
+
+
+
+## Lambda Ausdrücke
+
+
+## decltype und auto
+
+
+## nullptr
+
+
+## Konstruktoren
+
+
+## Rvalue Reference und Move Semantik
+
+
+## Variadic template
+
+
+## foreach Schleifen
+
+
+
+
+
 

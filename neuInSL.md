@@ -1,6 +1,25 @@
 # Standardlibrary: Neu in C++ 11
 
-## folgt später
+
+## Smart Pointer
+
+ shared_ptr 
+ 
+ unique_ptr
+ 
+ 
+
+## Threading
+
+
+
+## Neue Algorithmen
+
+
+
+
+
+
 
 
 
